@@ -55,7 +55,7 @@ namespace HelloWorld
                         Console.Write("Qual nome vai colocar no lugar: ");
                         nomes[edit - 1] = Console.ReadLine();
                         Console.WriteLine();
-                        Console.WriteLine($"nome: {nomes[edit -1]} dicionado com sucesso!!");
+                        Console.WriteLine($"nome: {nomes[edit -1]} adicionado com sucesso!!");
                         Console.ReadKey();
                         break;
 
