@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\github\\C-Sharp\\Snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F75475E7-791E-4368-A575-8ED262A6AC3E}|Snake\\Snake.csproj|c:\\code\\github\\c-sharp\\snake\\snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75475E7-791E-4368-A575-8ED262A6AC3E}|Snake\\Snake.csproj|solutionrelative:snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75475E7-791E-4368-A575-8ED262A6AC3E}|Snake\\Snake.csproj|C:\\code\\github\\C-Sharp\\Snake\\snake\\coordenada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75475E7-791E-4368-A575-8ED262A6AC3E}|Snake\\Snake.csproj|solutionrelative:snake\\coordenada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75475E7-791E-4368-A575-8ED262A6AC3E}|Snake\\Snake.csproj|C:\\code\\github\\C-Sharp\\Snake\\snake\\direcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75475E7-791E-4368-A575-8ED262A6AC3E}|Snake\\Snake.csproj|solutionrelative:snake\\direcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coordenada.cs",
+              "DocumentMoniker": "C:\\code\\github\\C-Sharp\\Snake\\Snake\\Coordenada.cs",
+              "RelativeDocumentMoniker": "Snake\\Coordenada.cs",
+              "ToolTip": "C:\\code\\github\\C-Sharp\\Snake\\Snake\\Coordenada.cs",
+              "RelativeToolTip": "Snake\\Coordenada.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:18:43.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Direcao.cs",
+              "DocumentMoniker": "C:\\code\\github\\C-Sharp\\Snake\\Snake\\Direcao.cs",
+              "RelativeDocumentMoniker": "Snake\\Direcao.cs",
+              "ToolTip": "C:\\code\\github\\C-Sharp\\Snake\\Snake\\Direcao.cs",
+              "RelativeToolTip": "Snake\\Direcao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:11:05.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\code\\github\\C-Sharp\\Snake\\Snake\\Program.cs",
+              "RelativeDocumentMoniker": "Snake\\Program.cs",
+              "ToolTip": "C:\\code\\github\\C-Sharp\\Snake\\Snake\\Program.cs",
+              "RelativeToolTip": "Snake\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwBYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:01:37.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
